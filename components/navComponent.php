@@ -11,16 +11,16 @@
         <input type="checkbox" name="" id="hamburguesaResponsive" class="hamburguesaResponsive">
         <ul class="nav-list">
             <li class="nav-item">
-                <a href="../pages/index.php" class="nav-link">Inicio</a>
+                <a href="index.php" class="nav-link">Inicio</a>
             </li>
             <li class="nav-item">
-                <a href="../pages/destinos.php" class="nav-link">Destinos</a>
+                <a href="destinos.php" class="nav-link">Destinos</a>
             </li>
             <li class="nav-item">
-                <a href="../pages/servicios.php" class="nav-link">Servicios</a>
+                <a href="servicios.php" class="nav-link">Servicios</a>
             </li>
             <li class="nav-item">
-                <a href="../pages/form.php" class="nav-link">Contacto</a>
+                <a href="form.php" class="nav-link">Contacto</a>
             </li>
         </ul>
     </nav>
