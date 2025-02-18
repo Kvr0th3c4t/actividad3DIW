@@ -1,0 +1,39 @@
+/* Paleta de colores de la web: https://color.adobe.com/Agencia-Dev-travel-color-theme-31ab06d7-dc1f-4bee-b267-25db4962319c  */
+:root {
+    --azul-profundo: #005F73;
+    --turquesa: #0A9396;
+    --verde-bosque: #2A9D8F;
+    --amarillo-mostaza: #E9C46A;
+    --coral: #EE8959;
+    --blanco: #E2E2E2;
+    --gris-oscuro: #264653;
+    --alturaHeader: 80px;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+    color: var(--gris-oscuro);
+    line-height: 1.5;
+    background-color: var(--turquesa);
+}
+
+h1 {
+    font-family: "Bebas Neue", serif;
+    font-weight: 800;
+    font-style: normal;
+    font-size: 3em;
+    color: var(--amarillo-mostaza);
+}
+
+h2{
+    font-family: "Bebas Neue", serif;
+    font-weight: 800;
+    font-style: normal;
+    font-size: 2em;
+}
+
+a {
+    text-decoration: none;
+}

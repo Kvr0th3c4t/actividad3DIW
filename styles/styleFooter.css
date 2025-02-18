@@ -1,0 +1,17 @@
+footer{
+    display: flex;
+    justify-content:space-evenly;
+    text-align: center;
+    background-color: var(--gris-oscuro);
+    color: var(--blanco);
+    width: 100%;
+    padding: 15px 0;
+
+}
+
+footer div{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 1.5em;
+}
